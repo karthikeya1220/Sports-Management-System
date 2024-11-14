@@ -27,14 +27,12 @@ A web-based system designed to streamline the operations of a sports complex, ma
 - **Backend**: PHP
 - **Database**: [Specify database here, e.g., MySQL, PostgreSQL]
 - **Authentication**: [Clerk/Auth0/Passport or similar]
-- **Payment Integration**: [Stripe/PayPal]
 
 ## Languages Used
 
 - **JavaScript**: 62.0%
 - **PHP**: 26.1%
 - **CSS**: 11.8%
-- **Hack**: 0.1%
 
 ## Installation
 
