@@ -1,7 +1,3 @@
-Here's a README template for your "Sports Complex Management System" project. This template includes sections to help others understand the project, set it up, and contribute.
-
----
-
 # Sports Complex Management System
 
 A web-based system designed to streamline the operations of a sports complex, managing bookings, scheduling, and member data efficiently. This project provides an interface for users to book facilities, check availability, and manage membership details.
@@ -10,10 +6,12 @@ A web-based system designed to streamline the operations of a sports complex, ma
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Languages Used](#languages-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
+  
 ## Features
 
 - **Facility Booking**: Users can book courts, fields, or other facilities.
@@ -25,11 +23,18 @@ A web-based system designed to streamline the operations of a sports complex, ma
 
 ## Tech Stack
 
-- **Frontend**: [React.js, Next.js, or another frontend framework you are using]
-- **Backend**: [Node.js, Express, or the backend framework]
-- **Database**: [MongoDB, PostgreSQL, etc.]
+- **Frontend**: [JavaScript, CSS]
+- **Backend**: PHP
+- **Database**: [Specify database here, e.g., MySQL, PostgreSQL]
 - **Authentication**: [Clerk/Auth0/Passport or similar]
 - **Payment Integration**: [Stripe/PayPal]
+
+## Languages Used
+
+- **JavaScript**: 62.0%
+- **PHP**: 26.1%
+- **CSS**: 11.8%
+- **Hack**: 0.1%
 
 ## Installation
 
@@ -75,7 +80,3 @@ Contributions are welcome! To get started:
 5. Push to the branch (`git push origin feature-branch-name`).
 6. Open a pull request.
 
-
----
-
-This README should help your users understand and get started with the project. Adjust any section as necessary to fit your specific setup and requirements.
